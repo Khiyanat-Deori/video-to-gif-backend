@@ -1,0 +1,12 @@
+fastapi
+python-multipart
+uvicorn
+ffmpeg-python
+openai-whisper
+torch
+firebase-admin
+slowapi
+asyncio
+moviepy
+numpy
+
